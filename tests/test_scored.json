@@ -1,0 +1,49 @@
+[
+  {
+    "topicId": "1",
+    "title": "AI智能助手",
+    "rawText": "这是一款基于大模型和深度学习的AI智能助手，支持GPT和LLM接口，提供自动化工作流，使用React和TypeScript构建前端，后端采用微服务架构，使用Docker和K8s部署",
+    "votes": 15,
+    "imageCount": 8,
+    "replyCount": 5,
+    "scores": {
+      "functionality": 6.1,
+      "innovation": 7.0,
+      "ux": 5.0,
+      "visual": 5.8,
+      "techDifficulty": 7.7,
+      "practicality": 6.6
+    },
+    "avgScore": 6.4,
+    "qualityGrade": "B",
+    "stars": 3,
+    "oneLiner": "以技术难度和创新性为亮点的产品",
+    "strengths": [
+      "概念新颖，有独创性",
+      "技术实现复杂，有深度"
+    ],
+    "weaknesses": []
+  },
+  {
+    "topicId": "2",
+    "title": "简单计算器",
+    "rawText": "一个简单的计算器",
+    "votes": 0,
+    "imageCount": 0,
+    "replyCount": 0,
+    "scores": {
+      "functionality": 5.0,
+      "innovation": 5.0,
+      "ux": 5.0,
+      "visual": 5.0,
+      "techDifficulty": 5.0,
+      "practicality": 5.0
+    },
+    "avgScore": 5.0,
+    "qualityGrade": "B",
+    "stars": 2,
+    "oneLiner": "以功能完整度和创新性为亮点的产品",
+    "strengths": [],
+    "weaknesses": []
+  }
+]

@@ -1,0 +1,9 @@
+# Rule Scoring Engine - Dependencies
+# Python 3.8+ required. Core engine uses only stdlib.
+# Optional: tqdm for progress bars during batch scoring.
+
+# Core dependencies (stdlib only - no install needed)
+# json, argparse, os, logging, collections, dataclasses
+
+# Optional dependencies
+tqdm>=4.64.0          # progress bar for batch scoring (optional)

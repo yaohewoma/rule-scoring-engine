@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "topicId": "1",
+      "title": "AI智能助手",
+      "rawText": "这是一款基于大模型和深度学习的AI智能助手，支持GPT和LLM接口，提供自动化工作流，使用React和TypeScript构建前端，后端采用微服务架构，使用Docker和K8s部署",
+      "votes": 15,
+      "imageCount": 8,
+      "replyCount": 5
+    },
+    {
+      "topicId": "2",
+      "title": "简单计算器",
+      "rawText": "一个简单的计算器",
+      "votes": 0,
+      "imageCount": 0,
+      "replyCount": 0
+    }
+  ]
+}

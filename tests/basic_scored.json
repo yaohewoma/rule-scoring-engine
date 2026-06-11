@@ -1,0 +1,68 @@
+[
+  {
+    "topicId": "001",
+    "title": "AI 智能助手",
+    "rawText": "这是一个基于大模型的 AI 智能助手，支持自然语言对话、代码生成、文档写作等功能。系统采用微服务架构，支持分布式部署，具有高性能和高可用性。UI 设计简洁直观，响应式布局适配多种设备。",
+    "votes": 150,
+    "imageCount": 5,
+    "replyCount": 20,
+    "scores": {
+      "functionality": 5.3,
+      "innovation": 6.5,
+      "ux": 5.9,
+      "visual": 5.8,
+      "techDifficulty": 6.2,
+      "practicality": 6.5
+    },
+    "avgScore": 6.0,
+    "qualityGrade": "B",
+    "stars": 3,
+    "oneLiner": "以创新性和实用价值为亮点的产品",
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "topicId": "002",
+    "title": "简单计算器",
+    "rawText": "一个简单的计算器应用，支持基本的加减乘除运算。",
+    "votes": 20,
+    "imageCount": 1,
+    "replyCount": 2,
+    "scores": {
+      "functionality": 5.0,
+      "innovation": 5.0,
+      "ux": 5.0,
+      "visual": 5.1,
+      "techDifficulty": 5.0,
+      "practicality": 5.9
+    },
+    "avgScore": 5.1,
+    "qualityGrade": "B",
+    "stars": 2,
+    "oneLiner": "以实用价值和视觉设计为亮点的产品",
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "topicId": "003",
+    "title": "在线教育平台",
+    "rawText": "创新的在线教育平台，首创互动式教学模式。平台采用 AI 技术实现个性化学习路径推荐，支持视频课程、在线测验、学习社区等功能。技术栈包括 React、Node.js、MongoDB，支持高并发访问。",
+    "votes": 300,
+    "imageCount": 10,
+    "replyCount": 45,
+    "scores": {
+      "functionality": 5.2,
+      "innovation": 6.1,
+      "ux": 5.0,
+      "visual": 6.0,
+      "techDifficulty": 5.6,
+      "practicality": 6.5
+    },
+    "avgScore": 5.7,
+    "qualityGrade": "B",
+    "stars": 2,
+    "oneLiner": "以实用价值和创新性为亮点的产品",
+    "strengths": [],
+    "weaknesses": []
+  }
+]
